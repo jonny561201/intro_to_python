@@ -1,3 +1,26 @@
+#Math Operator Examples
+
+value = 2 + 8
+print(value)
+
+value = 2 - 8
+print(value)
+
+value = 2 * 8
+print(value)
+print(value)
+
+value = 8 / 2
+print(value)
+
+value = 8 % 2
+print(value)
+
+
+
+
+
+# Logic Operators Examples
 test = 2
 result = None
 
